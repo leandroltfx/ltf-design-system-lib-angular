@@ -7,7 +7,7 @@
       "projectType": "library",
       "root": "projects/ltf-design-system",
       "sourceRoot": "projects/ltf-design-system/src",
-      "prefix": "lib",
+      "prefix": "ltf",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
