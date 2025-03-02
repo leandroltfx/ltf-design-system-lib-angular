@@ -72,3 +72,7 @@
 .ltf-w-90 { width: 90%; }
 .ltf-w-95 { width: 95%; }
 .ltf-w-100 { width: 100%; }
+
+.ltf-flex { display: flex; }
+.ltf-align-items-center { align-items: center; }
+.ltf-justify-content-center { justify-content: center; }
