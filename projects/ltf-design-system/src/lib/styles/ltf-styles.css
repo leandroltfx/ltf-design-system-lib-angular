@@ -76,3 +76,5 @@
 .ltf-flex { display: flex; }
 .ltf-align-items-center { align-items: center; }
 .ltf-justify-content-center { justify-content: center; }
+.ltf-justify-content-start { justify-content: start; }
+.ltf-justify-content-end { justify-content: end; }
