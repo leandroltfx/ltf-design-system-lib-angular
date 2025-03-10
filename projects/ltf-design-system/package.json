@@ -1,6 +1,6 @@
 {
   "name": "ltf-design-system",
-  "version": "0.0.3-rc.3",
+  "version": "0.0.3-rc.4",
   "peerDependencies": {
     "@angular/common": "^16.2.0",
     "@angular/core": "^16.2.0"
