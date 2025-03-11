@@ -92,3 +92,5 @@
 .ltf-justify-content-start { justify-content: start; }
 .ltf-justify-content-end { justify-content: end; }
 .ltf-justify-content-space-between { justify-content: space-between; }
+.ltf-flex-wrap { flex-wrap: wrap; }
+.ltf-flex-nowrap { flex-wrap: nowrap; }
